@@ -1,0 +1,13 @@
+.input-error {
+    @apply
+    border-red-500
+    focus:outline-red-500
+    text-red-500
+}
+
+.input-ok {
+    @apply
+    border-gray-200
+    focus:outline-blue-400
+    text-red-500
+}
